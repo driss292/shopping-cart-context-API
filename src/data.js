@@ -1,4 +1,4 @@
-const products = [
+export const products = [
     {
         _id: "1",
         name: "Sony Camera",
@@ -55,4 +55,4 @@ const products = [
     },
 ];
 
-export default products;
+// export default products;
